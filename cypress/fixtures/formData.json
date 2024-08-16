@@ -1,0 +1,18 @@
+{
+  "firstName": "Saim",
+  "lastName": "Jahangir",
+  "email": "saim.jahangir@arbisoft.com",
+  "gender": "Male",
+  "mobileNumber": "3409646487",
+  "dateOfBirth": {
+    "month": "May",
+    "year": "1998",
+    "day": "23"
+  },
+  "subjects": ["Maths","Computer Science","Physics"],
+  "hobbies": ["1", "2", "3"],
+  "picture": "image.png",
+  "currentAddress": "ABC town Islamabad",
+  "state": "Haryana",
+  "city": "Panipat"
+}
